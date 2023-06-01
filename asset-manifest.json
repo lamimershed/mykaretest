@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lamimershed/mykaretest.git/static/css/main.6ba2ba22.css",
+    "main.js": "/lamimershed/mykaretest.git/static/js/main.237c0db3.js",
+    "static/js/787.eaca7b7e.chunk.js": "/lamimershed/mykaretest.git/static/js/787.eaca7b7e.chunk.js",
+    "index.html": "/lamimershed/mykaretest.git/index.html",
+    "main.6ba2ba22.css.map": "/lamimershed/mykaretest.git/static/css/main.6ba2ba22.css.map",
+    "main.237c0db3.js.map": "/lamimershed/mykaretest.git/static/js/main.237c0db3.js.map",
+    "787.eaca7b7e.chunk.js.map": "/lamimershed/mykaretest.git/static/js/787.eaca7b7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba2ba22.css",
+    "static/js/main.237c0db3.js"
+  ]
+}
